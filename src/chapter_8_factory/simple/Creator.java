@@ -1,0 +1,7 @@
+package chapter_8_factory.simple;
+
+public abstract class Creator {
+
+    public abstract <T extends Product> T createProduct(Class<T> tClass);
+
+}
