@@ -1,4 +1,4 @@
-package chapter_20_deidaiqi;
+package chapter_20_diedaiqi;
 
 import java.util.ArrayList;
 

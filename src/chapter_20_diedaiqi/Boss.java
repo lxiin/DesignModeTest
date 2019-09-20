@@ -1,6 +1,4 @@
-package chapter_20_deidaiqi;
-
-import java.util.ArrayList;
+package chapter_20_diedaiqi;
 
 public class Boss {
 

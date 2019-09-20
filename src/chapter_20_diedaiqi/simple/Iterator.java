@@ -1,4 +1,4 @@
-package chapter_20_deidaiqi.simple;
+package chapter_20_diedaiqi.simple;
 
 public interface Iterator {
 
